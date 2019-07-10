@@ -58,9 +58,14 @@
   <p> Favorite Type about Penguins: </p>
     <label><input type="radio" name="male-female" checked> Male</label>
     <label><input type="radio" name="male-female"> Female </label><br>
-    <label><input type="checkbox" name="penguin type" checked> 				Loving</label>
-    <label><input type="checkbox" name="penguin type"> Lazy</label>
-    <label><input type="checkbox" name="penguin type"> Energetic</label><br>
+    <label><input type="checkbox" name="penguin type" checked> Emperor </label>
+    <label><input type="checkbox" name="penguin type"> Adelie </label>
+    <label><input type="checkbox" name="penguin type"> Chinstrap </label>
+    <label><input type="checkbox" name="penguin type"> Macaroni </label>
+    <label><input type="checkbox" name="penguin type"> King </label>
+    <label><input type="checkbox" name="penguin type"> Gettoo </label>
+
+    <br>
     <input type="text" placeholder="penguin photo URL" required>
     <button type="submit">Submit</button>
   </form>
